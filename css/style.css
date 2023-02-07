@@ -1,0 +1,15 @@
+/* Centered Image Code */
+
+div {
+display: flex;
+justify-content: center;
+}
+
+img {
+width: 33%;
+float: center;
+}
+
+hr {
+width: 100%;
+}
