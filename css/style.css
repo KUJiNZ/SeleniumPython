@@ -1,0 +1,17 @@
+
+
+.divput{
+display: flex;
+}
+
+.imghead{
+  width: 33%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+width: 100%;
+}
+
